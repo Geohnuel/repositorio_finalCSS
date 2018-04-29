@@ -1,0 +1,58 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/paisajes.css">
+    <title>Comenzando con la Fotografía</title>
+  </head>
+  <body>
+    <section id="cabecera">
+      <header>
+        <h1>Comenzando con la Fotografía</h1>
+      </header>
+      <nav>
+        <ul>
+          <a href="../PruebaFinal.html"><li class="li1">Inicio</li></a>
+          <a href="../paginas/paisajes.html"><li class="li2" >Paisajes</li></a>
+          <a href="../paginas/retratos.html"><li class="li3">Retratos</li></a>
+        </ul>
+      </nav>
+      </section>
+      <section id="contenedor">
+      <div class="img1">
+        <div><img id="im1" src="img/Captura2.png"></div>
+        <div><img id="im2" src="img/Captura2.png"></div>
+        <div><img id="im3" src="img/Captura2.png"></div>
+      </div>
+      <div class="img2">
+        <div><img id="im4" src="img/Captura2.png"></div>
+        <div><img id="im5" src="img/Captura2.png"></div>
+        <div><img id="im6" src="img/Captura2.png"></div>
+      </div>
+    </section>
+  </body>
+  <footer>
+    <section id="Pie">
+      <div class="contactos">
+        <h1>Contactos</h1>
+        <a href="mailto:comienzatus_fotos@gmail.com?subject=feedback"><p>comienzatus_fotos@gmail.com</p></a>
+        <p>629 N HIGH ST SEA CA 90511</p>
+        <p>803-574-8795</p>
+      </div>
+      <div class="terminos">
+        <h1>Terminos</h1>
+        <p>En esta pagina solo exponemos <br> fotografías de autoria propía</p>
+      </div>
+      <div class="redes">
+        <h1>Redes Sociales</h1>
+        <p><img src="img/Captura4.png" width="15mp" height="15mp"> Facebook</p>
+        <p><img src="img/Captura5.png" width="15mp" height="15mp"> Twitter</p>
+        <p><img src="img/Captura6.png" width="15mp" height="15mp"> Instagram</p>
+      </div>
+      <div class="derechos">
+        <h1>Derechos</h1>
+        <p>LeoBarrios©2018</p>
+      </div>
+    </section>
+  </footer>
+</html>
